@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.reward.controller.RewardPointControllerTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-07-21T07:54:29" hostname="MAYUR-PC" time="3.603">
+  <properties/>
+  <testcase name="rewardPointFetch_Test()" classname="com.reward.controller.RewardPointControllerTest" time="3.603"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
